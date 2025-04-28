@@ -1,0 +1,657 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9980ad7db43045ab7bab276d1c882dbe"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "5a66d4151816b442d4f582148245e8a9"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/franco-frouapny",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/franco-frouapny/index.html",
+        "type": "file",
+        "md5": "f3ab4859692ec3330ddcbe7548a2b3f6"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "3006cf4227aba2298b77e4f87b07a1a1"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "24b362a169b9fd56ce9524b6a94618b5"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "bcd41be6e5f77cabeb11e47cd85d0939"
+    },
+    {
+        "path": "flexible-payment-plans-for-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/flexible-payment-plans-for-furniture/index.html",
+        "type": "file",
+        "md5": "6a86dedbd41293dd9ab5bef67dcf5b06"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "49bbe63b7167602eacda75e7a4f6195e"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Dressers-with-Mirrors.jpg",
+        "type": "file",
+        "md5": "49e1592d021a4c1ff4bfb5733edfb3f9"
+    },
+    {
+        "path": "/media/posts/1/dressers.gif",
+        "type": "file",
+        "md5": "51820805d7b7802ee12ac7b2ec7276e8"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-2xl.jpg",
+        "type": "file",
+        "md5": "0e2b2eb58e22d378985e29bc9d3d16f9"
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-lg.jpg",
+        "type": "file",
+        "md5": "f9e5cb467632993de77ad9aac9680c2f"
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-md.jpg",
+        "type": "file",
+        "md5": "0269d7ea16fcd638edc461eeaa46398e"
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-sm.jpg",
+        "type": "file",
+        "md5": "fd2c449749f62f16ee5e2731b75b5236"
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-xl.jpg",
+        "type": "file",
+        "md5": "985a7f9c164d058744a6d8130ebb49b1"
+    },
+    {
+        "path": "/media/posts/1/responsive/Dressers-with-Mirrors-xs.jpg",
+        "type": "file",
+        "md5": "c3682a875549c77ab7b90aafccde780a"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Apolo_Pearl.jpg",
+        "type": "file",
+        "md5": "98042e1db1978a8f8d8efb477ff4c979"
+    },
+    {
+        "path": "/media/posts/2/homey-design.jpg",
+        "type": "file",
+        "md5": "c847426bd12fa3b72b743b6733b8477b"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-2xl.jpg",
+        "type": "file",
+        "md5": "f295a7a12a2c8a0803a7b3216bcae374"
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-lg.jpg",
+        "type": "file",
+        "md5": "07214ff705b88719af2e601ef0058dcc"
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-md.jpg",
+        "type": "file",
+        "md5": "a6df4e695eb786d5c6f8a2ec478b6a72"
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-sm.jpg",
+        "type": "file",
+        "md5": "4c4892c222aa0a83d4df1aa1e3343342"
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-xl.jpg",
+        "type": "file",
+        "md5": "f295a7a12a2c8a0803a7b3216bcae374"
+    },
+    {
+        "path": "/media/posts/2/responsive/Apolo_Pearl-xs.jpg",
+        "type": "file",
+        "md5": "4636c52b567ef3e3d02733b172c09fbd"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-2xl.jpg",
+        "type": "file",
+        "md5": "7349b70b49bbac3def40c41e1d3cb7f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-lg.jpg",
+        "type": "file",
+        "md5": "7349b70b49bbac3def40c41e1d3cb7f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-md.jpg",
+        "type": "file",
+        "md5": "7349b70b49bbac3def40c41e1d3cb7f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-sm.jpg",
+        "type": "file",
+        "md5": "7349b70b49bbac3def40c41e1d3cb7f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-xl.jpg",
+        "type": "file",
+        "md5": "7349b70b49bbac3def40c41e1d3cb7f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/homey-design-xs.jpg",
+        "type": "file",
+        "md5": "a69b48aa4f5609788b412ec332c30c5c"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/Aplolo-Sectional-in-Brown_loveseat-600x600-1.jpg",
+        "type": "file",
+        "md5": "c14e4b2933b54d9a3527071edb916355"
+    },
+    {
+        "path": "/media/posts/3/Giza-Full-Leather-in-Beige.png",
+        "type": "file",
+        "md5": "32e3fa93a73be782775c859bb5395d32"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-2xl.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-lg.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-md.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-sm.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-xl.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Aplolo-Sectional-in-Brown_loveseat-600x600-1-xs.jpg",
+        "type": "file",
+        "md5": "2449a3cdd7c4a3614aea46d27af7d6c2"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-2xl.png",
+        "type": "file",
+        "md5": "3a394f4b1bef02bb4550e712a4b62436"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-lg.png",
+        "type": "file",
+        "md5": "c93a60624fb3727a0d48422274bd8b8d"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-md.png",
+        "type": "file",
+        "md5": "312177e1beecd83154ffbd79e9cab44b"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-sm.png",
+        "type": "file",
+        "md5": "ad59eff8ac7e67c1b7f0873a59f21195"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-xl.png",
+        "type": "file",
+        "md5": "7fc9f036315266fd44ab91f38de6bd1b"
+    },
+    {
+        "path": "/media/posts/3/responsive/Giza-Full-Leather-in-Beige-xs.png",
+        "type": "file",
+        "md5": "dceac8e1f188dd75d0feb6e6619ba06e"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Apolo-Brown-End-table.gif",
+        "type": "file",
+        "md5": "d62b96aa250f227dc033eeb350d91383"
+    },
+    {
+        "path": "/media/posts/4/Brands_Camel-Classic-Living-Rooms-Italy_Treviso.png",
+        "type": "file",
+        "md5": "f194865691153542bfc7254bccde96b6"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-2xl.png",
+        "type": "file",
+        "md5": "12d4e57b58fdd08e594af97f15f3be2c"
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-lg.png",
+        "type": "file",
+        "md5": "69376ea237981910269b4dbfc78e061f"
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-md.png",
+        "type": "file",
+        "md5": "ec8b031112fc80af9978db0acdce2e13"
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-sm.png",
+        "type": "file",
+        "md5": "f89fc18f898c2a64c216c19683e6ed56"
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-xl.png",
+        "type": "file",
+        "md5": "928521f823e1aba3c4b11f563bdd568c"
+    },
+    {
+        "path": "/media/posts/4/responsive/Brands_Camel-Classic-Living-Rooms-Italy_Treviso-xs.png",
+        "type": "file",
+        "md5": "0f8c848e68df9f60039a51867257e104"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/o-15.jpg",
+        "type": "file",
+        "md5": "c2cd5943fb6c1bfa1923fd8c1941eea6"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-2xl.jpg",
+        "type": "file",
+        "md5": "7c623816b666628e6c10b0bae8b9e7a0"
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-lg.jpg",
+        "type": "file",
+        "md5": "7c623816b666628e6c10b0bae8b9e7a0"
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-md.jpg",
+        "type": "file",
+        "md5": "7c623816b666628e6c10b0bae8b9e7a0"
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-sm.jpg",
+        "type": "file",
+        "md5": "1012d0e96f6b2ed40fb23adb01934bee"
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-xl.jpg",
+        "type": "file",
+        "md5": "7c623816b666628e6c10b0bae8b9e7a0"
+    },
+    {
+        "path": "/media/posts/5/responsive/o-15-xs.jpg",
+        "type": "file",
+        "md5": "15c7fff08b75b56c584d753c02e665ab"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-2xl.jpeg",
+        "type": "file",
+        "md5": "755309c90bfa9aa5b3432a151b6e9730"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-lg.jpeg",
+        "type": "file",
+        "md5": "138065f9b8ff9546489c54e2a43465da"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-md.jpeg",
+        "type": "file",
+        "md5": "7a0ba35b56bc714507d8edbea2c9c0e3"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-sm.jpeg",
+        "type": "file",
+        "md5": "91d86650d6adaa1773fe6abc9ee97e46"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-xl.jpeg",
+        "type": "file",
+        "md5": "0c02c365db33e8e5fb6ff964300a7360"
+    },
+    {
+        "path": "/media/posts/5/responsive/Victorian-Style-Sofa-xs.jpeg",
+        "type": "file",
+        "md5": "e0e488fbbe2f615f945451c44254d5fe"
+    },
+    {
+        "path": "/media/posts/5/Victorian-Style-Sofa.jpeg",
+        "type": "file",
+        "md5": "e32eade23894689e8c429318f40cd183"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/o-17.jpg",
+        "type": "file",
+        "md5": "f1966b410a7d92ccdd299f881749089c"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-2xl.jpg",
+        "type": "file",
+        "md5": "d3fb9326607975dcb4bfcfa91a84a7b5"
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-lg.jpg",
+        "type": "file",
+        "md5": "d3fb9326607975dcb4bfcfa91a84a7b5"
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-md.jpg",
+        "type": "file",
+        "md5": "d3fb9326607975dcb4bfcfa91a84a7b5"
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-sm.jpg",
+        "type": "file",
+        "md5": "b4da21904e619554c98e90c44f4ae81a"
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-xl.jpg",
+        "type": "file",
+        "md5": "d3fb9326607975dcb4bfcfa91a84a7b5"
+    },
+    {
+        "path": "/media/posts/6/responsive/o-17-xs.jpg",
+        "type": "file",
+        "md5": "2a21e3acc82c4341b23a354d0004bafb"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/o-5.jpg",
+        "type": "file",
+        "md5": "e7af8aafaee7a40cb32541bd6d3e27bd"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-2xl.jpg",
+        "type": "file",
+        "md5": "8fb850d0df50d76aedd212a6651adbbb"
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-lg.jpg",
+        "type": "file",
+        "md5": "8fb850d0df50d76aedd212a6651adbbb"
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-md.jpg",
+        "type": "file",
+        "md5": "8fb850d0df50d76aedd212a6651adbbb"
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-sm.jpg",
+        "type": "file",
+        "md5": "58520133f43e6870e186f6b1c0b56ded"
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-xl.jpg",
+        "type": "file",
+        "md5": "8fb850d0df50d76aedd212a6651adbbb"
+    },
+    {
+        "path": "/media/posts/7/responsive/o-5-xs.jpg",
+        "type": "file",
+        "md5": "e851f89b0afa969cecab316ce9be1ad8"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "66e40be1fc57ab18292bbb92e0ab4e11"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a8fc5b64efc64cde683570d762f76584"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/buy-now-pay-later-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/buy-now-pay-later-furniture/index.html",
+        "type": "file",
+        "md5": "a017ee8d4dd51837863da1800e1dff2d"
+    },
+    {
+        "path": "tags/furniture-buy-now-pay-later",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/furniture-buy-now-pay-later/index.html",
+        "type": "file",
+        "md5": "c4fa4146e601e946f27e8ee88781a6ac"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f5330679e8f9438b75a6841fcbea8f62"
+    },
+    {
+        "path": "top-catalogs-that-offer-buy-now-pay-later-options",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-catalogs-that-offer-buy-now-pay-later-options/index.html",
+        "type": "file",
+        "md5": "bf7ba3db84cbcf24e61bb58b06667315"
+    },
+    {
+        "path": "top-furniture-stores-that-offer-convenient-payment-plans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-furniture-stores-that-offer-convenient-payment-plans/index.html",
+        "type": "file",
+        "md5": "5d276c78ff3be5bca609cc43763154ad"
+    },
+    {
+        "path": "top-shop-now-pay-later-catalogs-to-make-shopping-easy-and-affordable",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-shop-now-pay-later-catalogs-to-make-shopping-easy-and-affordable/index.html",
+        "type": "file",
+        "md5": "59cd50e9720b7496efdb514ee4f9e4ee"
+    },
+    {
+        "path": "understanding-sofa-price-and-payment-options-a-complete-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/understanding-sofa-price-and-payment-options-a-complete-guide/index.html",
+        "type": "file",
+        "md5": "afa33edeb5d654e974d0ea0bfe4a2cbc"
+    }
+]
